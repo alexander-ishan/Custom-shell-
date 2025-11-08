@@ -37,7 +37,7 @@ cd Advanced-Unix-Shell
 ```bash
 g++ myshell.cpp -o mysh
 ```
-###3️⃣ Run the Shell
+### 3️⃣ Run the Shell
 ```bash
 ./mysh
 ```
