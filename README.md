@@ -54,7 +54,7 @@ This project is open-source and available under the MIT License.
 
 👨‍💻 Author
 
-Alexander Ishan
+Ishan Nasker
 🔗 GitHub: @alexander-ishan
 
 📧 Email: ishannasker18@gmail.com
